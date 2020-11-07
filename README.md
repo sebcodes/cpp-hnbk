@@ -2,6 +2,13 @@
 
 Alle Aufgaben verständlich erklärt.
 
+## Vorraussetzung
+
+Alle Projekte sind auf Visual Studio 2019
+Wenn ihr 2015 verwendet oben in der Datei noch folgendes einbinden:
+```cpp
+ #include "stdafx.h"
+```
 
 ## Verwendung
 
