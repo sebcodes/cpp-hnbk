@@ -19,6 +19,7 @@ public:
         //this bezieht sich auf das aktuelle objekt (nicht zwingend)
         this->startHour = startHour;
         this->startMin = startMin;
+        
     }
     //Gibt die Start Stunde zurück
     int getStartHour() {
